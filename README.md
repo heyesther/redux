@@ -1,4 +1,4 @@
-# git_faker
+# git-faker
 
 ## A CLI Ruby script for faking Github commit history
 
