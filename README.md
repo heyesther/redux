@@ -10,7 +10,7 @@ By default, the script will use a range of 1 to 10 unless options are given.
 ```
 $ ruby faker.rb -h
 
-Usage: ruby faker.rb [options] start_date end_date ...
+Usage: ruby faker.rb --date start_date end_date [options] ...
 
 Dates must be formatted as M-D-YY
 

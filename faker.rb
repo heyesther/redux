@@ -9,7 +9,7 @@ max = 10
 options = {}
 
 parser = OptionParser.new do |opts|
-  opts.banner = "Usage: ruby faker.rb [options] start_date end_date ..."
+  opts.banner = "Usage: ruby faker.rb --date start_date end_date [options] ..."
   opts.separator ""
   opts.separator "Dates must be formatted as M-D-YY"
   opts.separator ""
